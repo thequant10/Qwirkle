@@ -1,0 +1,95 @@
+Welcome to Qwirkle!
+-------------------
+Menu
+---
+1. New Game
+2. Load game
+3. Credits (Show student information)
+4. Quit
+> Type 1 for Basic and 2 For Enhanced Version ?
+> How many players in game ?(2-4)
+> Enter a name for player 1 (uppercase characters only)
+> 
+Enter a name for player 2 (uppercase characters only)
+> 
+Enter a name for player 3 (uppercase characters only)
+> 
+3
+
+Let's Play!
+
+
+SAM, it's your turn
+Score for SAM: 0
+Score for BOB: 0
+Score for RAUL: 0
+   0  
+  ---
+A |  |
+B |  |
+Your hand is
+B1,O6,P5,B1,G6,G1
+
+> Command not recognised. Please try again: 
+
+> 
+BOB, it's your turn
+Score for SAM: 3
+Score for BOB: 0
+Score for RAUL: 0
+   0  1  2  3  4  5  6  
+  ----------------------
+A |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |
+D |  |  |  |  |  |  |  |
+E |  |  |  |  |  |B1|  |
+F |  |  |  |  |  |G1|  |
+G |  |  |  |  |  |  |  |
+Your hand is
+P3,B4,R1,G6,G1,O5
+
+> 
+RAUL, it's your turn
+Score for SAM: 3
+Score for BOB: 5
+Score for RAUL: 0
+   0  1  2  3  4  5  6  7  
+  -------------------------
+A |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |
+D |  |  |  |  |  |R1|  |  |
+E |  |  |  |  |  |B1|B4|  |
+F |  |  |  |  |  |G1|  |  |
+G |  |  |  |  |  |  |  |  |
+Your hand is
+R6,B4,O4,Y1,G5,B5
+
+> THE TILE R7 is not in your hand . Try again: 
+
+> 
+SAM, it's your turn
+Score for SAM: 3
+Score for BOB: 5
+Score for RAUL: 7
+   0  1  2  3  4  5  6  7  
+  -------------------------
+A |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |
+D |  |  |  |  |  |R1|  |  |
+E |  |  |  |  |B5|B1|B4|  |
+F |  |  |  |  |G5|G1|  |  |
+G |  |  |  |  |  |  |  |  |
+Your hand is
+O6,P5,B1,G6,O6,Y3
+
+> THE TILE Y3 cannot be placed in D10
+> 1.To place a tile type: Place TILE AT LOCATION
+2.To replace a tile type: REPLACE TILE
+3.To Save File: type SAVE [FILENAME]
+4.To place multiple tiles: type Place TILE AT LOCATION Place TILE AT LOCATION PLACE...
+4.To quit the game: type QUIT
+> 
+Goodbye

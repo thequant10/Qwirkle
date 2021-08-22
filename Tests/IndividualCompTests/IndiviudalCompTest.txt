@@ -1,0 +1,136 @@
+Welcome to Qwirkle!
+-------------------
+Menu
+---
+1. New Game
+2. Load game
+3. Credits (Show student information)
+4. Quit
+> Type 1 for Basic and 2 For Enhanced Version ?
+> How many players in game ?(2-4)
+> Enter a name for player 1 (uppercase characters only)
+> 
+Enter a name for player 2 (uppercase characters only)
+> 
+Enter a name for player 3 (uppercase characters only)
+> 
+Enter a name for player 4 (uppercase characters only)
+> 
+4
+
+Let's Play!
+
+
+SAM, it's your turn
+Score for SAM: 0
+Score for BOB: 0
+Score for JANE: 0
+Score for ROSS: 0
+   0  
+  ---
+A |  |
+B |  |
+Your hand is
+B1,O6,P5,B1,G6,G1
+
+> Command not recognised. Please try again: 
+
+> G1
+
+BOB, it's your turn
+Score for SAM: 3
+Score for BOB: 0
+Score for JANE: 0
+Score for ROSS: 0
+   0  1  2  3  4  5  6  7  8  9  10 11 
+  -------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |B1|  |
+D |  |  |  |  |  |  |  |  |  |  |G1|  |
+E |  |  |  |  |  |  |  |  |  |  |  |  |
+Your hand is
+P3,B4,R1,G6,G1,O5
+
+> 
+JANE, it's your turn
+Score for SAM: 3
+Score for BOB: 7
+Score for JANE: 0
+Score for ROSS: 0
+   0  1  2  3  4  5  6  7  8  9  10 11 12 
+  ----------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |B4|B1|  |  |
+D |  |  |  |  |  |  |  |  |  |  |G1|G6|  |
+E |  |  |  |  |  |  |  |  |  |  |R1|  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Your hand is
+R6,B4,O4,Y1,G5,B5
+
+> 
+ROSS, it's your turn
+Score for SAM: 3
+Score for BOB: 7
+Score for JANE: 4
+Score for ROSS: 0
+   0  1  2  3  4  5  6  7  8  9  10 11 12 
+  ----------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |B4|B1|  |  |
+D |  |  |  |  |  |  |  |  |  |  |G1|G6|  |
+E |  |  |  |  |  |  |  |  |  |  |R1|R6|  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Your hand is
+O6,Y3,P2,O3,R1,O1
+
+> THE TILE O7 is not in your hand . Try again: 
+
+> O6
+
+SAM, it's your turn
+Score for SAM: 3
+Score for BOB: 7
+Score for JANE: 4
+Score for ROSS: 9
+   0  1  2  3  4  5  6  7  8  9  10 11 12 
+  ----------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |B4|B1|  |  |
+D |  |  |  |  |  |  |  |  |  |  |G1|G6|  |
+E |  |  |  |  |  |  |  |  |  |  |R1|R6|  |
+F |  |  |  |  |  |  |  |  |  |  |O1|O6|  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Your hand is
+O6,P5,B1,G6,B3,P6
+
+> THE TILE P6 cannot be placed in F12
+> 
+BOB, it's your turn
+Score for SAM: 10
+Score for BOB: 7
+Score for JANE: 4
+Score for ROSS: 9
+   0  1  2  3  4  5  6  7  8  9  10 11 12 
+  ----------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |B3|B4|B1|  |  |
+D |  |  |  |  |  |  |  |  |  |  |G1|G6|  |
+E |  |  |  |  |  |  |  |  |  |  |R1|R6|  |
+F |  |  |  |  |  |  |  |  |  |  |O1|O6|  |
+G |  |  |  |  |  |  |  |  |  |  |  |P6|  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Your hand is
+P3,G1,O5,Y2,R4,R3
+
+> 1.To place a tile type: Place TILE AT LOCATION
+2.To replace a tile type: REPLACE TILE
+3.To Save File: type SAVE [FILENAME]
+4.To place multiple tiles: type Place TILE AT LOCATION Place TILE AT LOCATION PLACE...
+4.To quit the game: type QUIT
+> 
+Goodbye
